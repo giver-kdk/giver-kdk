@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giver-kdk
+- 👋 Hi, I’m Giver
 - 👀 I’m interested in Logic Building, Graphic Design, Music and Movies
 - 🌱 I’m currently learning Website Development
 - 💞️ I’m looking to collaborate on creating web apps
