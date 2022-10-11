@@ -2,7 +2,7 @@
 - 👀 I’m interested in Logic Building, Graphic Design, Music and Movies
 - 🌱 I’m currently learning Website Development
 - 💞️ I’m looking to collaborate on creating web apps
-- 📫 How to reach me: Here is my facebook profile => https://www.facebook.com/dhiraj.kdk.37
+- 📫 Here is my facebook profile => https://www.facebook.com/dhiraj.kdk.37
 
 <!---
 giver-kdk/giver-kdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
